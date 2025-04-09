@@ -9,23 +9,6 @@ I build dashboards that make sense, not just look good.
 
 ---
 
-
-## 🛠️ Tools I Use Regularly
-
-**Data & Visualization**  
-Power BI • Tableau • Excel • Power Query • Power Apps • SSRS
-
-**Languages & Analytics**  
-Python (Pandas, NumPy) • SQL • DAX • R • M Language
-
-**Cloud & Databases**  
-AWS Redshift • AWS S3 • Azure Data Factory • Azure SQL • Snowflake • SQL Server • Google BigQuery • MySQL
-
-**Other Good Stuff**  
-Jupyter Notebooks • Git & GitHub • Docker • SharePoint • Agile (Scrum/Kanban)
-
----
-
 ## 🎯 What I’m Working On
 
 - Improving my storytelling through visuals  
